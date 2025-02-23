@@ -1,6 +1,14 @@
 # looking-glass
 Team: Catherine Rasgaitis, Srishti Bakshi, James Wilson
 
+## PROJECT OVERVIEW
+todo: revise and turn into paragraph
+- Goal: find correlations between eye movement and brain activity when looking at familiar vs unfamiliar faces
+- Approach
+    - 1: generating unfamiliar faces 
+    - 2: processing brain data
+    - 3: processing eye movement data
+
 ## FILE DESCRIPTIONS
 - `yaya/` is a directory of CSV files from the pilot study of eye tracking and EEG data. Files are named after what faces were used to generate the stimuli and what % the morph occured at.
 - `eeg/` is a directory of utils to graph/log EEG data from petal.
@@ -14,6 +22,11 @@ Team: Catherine Rasgaitis, Srishti Bakshi, James Wilson
 - `test_data.ipynb` contains preliminary figures and analysis from the pilot study.
 - `utils.py` contains remaining auxiliary utility functions, especially for eye tracking data.
 
+## SETTING UP DEVELOPMENT ENVIRONMENT
+todo
+
+## RUNNING THE APPLICATION
+todO
 
 ## ARCHIVED
 
